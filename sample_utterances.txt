@@ -1,0 +1,34 @@
+SendMeInstructions Send me instructions
+SendMeInstructions Give me instructions
+FeedCat feed my cat
+FeedCat feed my cat {size}
+FeedCat feed my cat {size} oz
+FeedCat feed my cats
+FeedCat feed my cats {size}
+FeedCat feed my cats {size} oz
+FeedCat feed my pets
+FeedCat feed my pets {size}
+FeedCat feed my pets {size} oz
+FeedCat {size} oz
+HandleNumber {size}
+Configure setup my feeder
+Configure configure
+Configure re configure
+Picture picture
+Picture does my cat have food
+Picture does my cat need to eat
+Picture do my cats have food
+Picture is there food in the bowl
+Picture do my cats need to be fed
+Picture give me a picture of the food bowl
+GetLastFeedingTime when did I last feed the cats
+GetLastFeedingTime tell me the last time I feed the cats
+GetCatFeederStatus is my feeder full
+GetCatFeederStatus what is the status of my feeder
+GetCatFeederStatus do I need to refill my feeder
+ChangeZipCode Change my Zip Code
+ChangeZipCode Update Zip Code
+AMAZON.StopIntent Goodbye
+AMAZON.StopIntent Good bye
+CatJokes Tell me a joke
+CatchAllIntent {catchall}

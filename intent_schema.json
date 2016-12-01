@@ -1,0 +1,67 @@
+{
+  "intents": [
+    {
+      "intent": "FeedCat",
+      "slots": [
+        {
+          "name": "size",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "Configure"
+    },
+    {
+      "intent": "SendMeInstructions"
+    },
+    {
+      "intent": "ChangeZipCode"
+    },
+    {
+      "intent": "Picture"
+    },
+    {
+      "intent": "GetLastFeedingTime"
+    },
+    {
+      "intent": "GetCatFeederStatus"
+    },
+    {
+      "intent": "CatJokes"
+    },
+    {
+      "intent": "HandleNumber",
+      "slots": [
+        {
+          "name": "size",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+   	"intent": "CatchAllIntent",
+   	"slots": [
+     	{
+       		"name": "catchall",
+       		"type": "CATCHALL"
+     	}
+   		]
+	}
+  ]
+}
